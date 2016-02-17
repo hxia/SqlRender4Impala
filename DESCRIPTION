@@ -1,4 +1,4 @@
-Package: SqlRender
+Package: SqlRender4Impala
 Type: Package
 Title: Rendering Parameterized SQL and Translation to Dialects
 Version: 1.1.3
